@@ -44,4 +44,4 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)<br>
     
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGaeduck-0908%2FGaeduck-0908%2Fhit-counter&count_bg=%23FF0000&title_bg=%2300CFFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![View](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGaeduck-0908%2FGaeduck-0908%2Fhit-counter&count_bg=%23FF0000&title_bg=%2300CFFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
