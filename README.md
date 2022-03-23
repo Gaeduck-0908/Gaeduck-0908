@@ -4,7 +4,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Kim%20Tae%20Han&fontSize=90)
  
   
-# Experience
+# :grinning:Experience
 | **TYPE** | **DATE** | **CONTENTS** | **WHERE** |
 |:--------:|:--------:|:--------:|:--------:|
 | **개발** | 2020. 03 ~ 현재 | 개발, 보안 | **Earth** |
@@ -22,11 +22,11 @@
 # :grinning:About me.
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaeduck-0908&&show_icons=true&theme=codeSTACKr) <br>
-### :neutral_face:I am a plain Korean student
-### :neutral_face:I'm very interested.
-### :neutral_face:I want to be good at coding.
-### :neutral_face:My Blog : https://gaeduck-it.tistory.com
-### :neutral_face:My GitHub : https://github.com/Gaeduck-0908
+### I am a plain Korean student
+### I'm very interested.
+### I want to be good at coding.
+### My Blog : https://gaeduck-it.tistory.com
+### My GitHub : https://github.com/Gaeduck-0908
   
   ![View](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGaeduck-0908%2FGaeduck-0908%2Fhit-counter&count_bg=%23000000&title_bg=%2300CFFF&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false)
 
