@@ -27,6 +27,8 @@
 ### :neutral_face:I want to be good at coding.
 ### :neutral_face:My Blog : https://gaeduck-it.tistory.com
 ### :neutral_face:My GitHub : https://github.com/Gaeduck-0908
+  
+  ![View](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGaeduck-0908%2FGaeduck-0908%2Fhit-counter&count_bg=%23000000&title_bg=%2300CFFF&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false)
 
 # :grinning:My Skill
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -54,11 +56,4 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![AndroidStuido](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white) <br>
-
-# :grinning:ETC
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)<br>
-    
-![View](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGaeduck-0908%2FGaeduck-0908%2Fhit-counter&count_bg=%23FF0000&title_bg=%2300CFFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 </div>
