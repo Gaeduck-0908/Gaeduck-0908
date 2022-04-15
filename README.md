@@ -4,7 +4,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Kim%20Tae%20Han&fontSize=90)
 
 # :grinning:Experience
-| **TYPE** | **DATE** | **CONTENTS** | **WHERE** |
+| **NAME** | **DATE** | **CONTENTS** | **WHERE** |
 |:--------:|:--------:|:--------:|:--------:|
 | **개발** | 2020. 03 ~ 현재 | 개발, 보안 | **Earth** |
 | **성일정보고등학교 게임 개발 동아리** | 2021. 03 ~ 현재 | Unity를 이용한 게임개발 | **Sungil Information High School** |
