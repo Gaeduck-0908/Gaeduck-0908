@@ -21,11 +21,11 @@
 # :grinning:About me.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaeduck-0908&&show_icons=true&theme=codeSTACKr) <br>
-### I am a plain Korean student
-### I'm very interested.
-### I want to be good at coding.
-### My Blog : https://gaeduck-it.tistory.com
-### My GitHub : https://github.com/Gaeduck-0908
+### 🔹 I am a plain Korean student
+### 🔹 I'm very interested.
+### 🔹 I want to be good at coding.
+### 🔹 My Blog : https://gaeduck-it.tistory.com
+### 🔹 My GitHub : https://github.com/Gaeduck-0908
 
   ![View](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGaeduck-0908%2FGaeduck-0908%2Fhit-counter&count_bg=%23000000&title_bg=%2300CFFF&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false)
 
