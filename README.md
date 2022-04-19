@@ -10,7 +10,6 @@
 | **성일정보고등학교 게임 개발 동아리** | 2021. 03 ~ 현재 | Unity를 이용한 게임개발 | **Sungil Information High School** |
 | **제 2회 해킹하는 부엉이들 웹세미나** | 2021. 06 ~ 2021. 06 | 보안 웹 세미나 | **TeamH4C** |
 | **Java 응용 프로그램 개발동아리** | 2021. 09 ~ 2021. 11 | Java 화면구현, DB 구현 교육 | **Sungil Information High School** |
-| **Java 기초반** | 2021. 10 ~ 2021. 11 | Java 문법, 알고리즘 교육 | **Sungil Information High School** |
 | **학생용 해킹노트 온라인 컨퍼런스** | 2021. 10 ~ 2021. 10 | 보안 웹 세미나 | **TeamH4C** |
 | **성일정보고등학교 보안스터디** | 2021. 11 ~ 2021. 현재 | 보안, 개발 활동 | **Sungil Information High School** |
 | **안드로이드 앱개발 동아리** | 2021. 11 ~ 2021. 현재 | 안드로이드 스튜디오를 <br> 이용한 앱개발 | **Sungil Information High School** |
