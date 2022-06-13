@@ -21,6 +21,7 @@
 # :grinning:About me.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaeduck-0908&&show_icons=true&theme=codeSTACKr) <br>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=gaeduck-0908)](https://solved.ac/gaeduck-0908) <br>
 ### 🔹 I am a plain Korean student
 ### 🔹 I'm very interested.
 ### 🔹 I want to be good at coding.
