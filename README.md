@@ -3,6 +3,23 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Kim%20Tae%20Han&fontSize=90)
 
+# :grinning:Repository
+  <a href="https://github.com/Gaeduck-0908/Python_Calculator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Python_Calculator" />
+  </a>
+  
+  <a href="https://github.com/Gaeduck-0908/Python_Web_crawling">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Python_Web_crawling" />
+  </a>
+  
+  <a href="https://github.com/Gaeduck-0908/BaekJoon">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=BaekJoon" />
+  </a>
+  
+  <a href="https://github.com/Gaeduck-0908/Unity_SocketGame_FPS">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Unity_SocketGame_FPS" />
+  </a>
+  
 # :grinning:Experience
 | **NAME** | **DATE** | **CONTENTS** | **WHERE** |
 |:--------:|:--------:|:--------:|:--------:|
@@ -22,7 +39,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaeduck-0908&&show_icons=true&theme=codeSTACKr) <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gaeduck0908)](https://solved.ac/gaeduck0908) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeduck-0908&layout=demo&theme=dracula) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeduck-0908&layout=compact&theme=dracula) <br>
 ### 🔹 I am a plain Korean student
 ### 🔹 I'm very interested.
 ### 🔹 I want to be good at coding.
