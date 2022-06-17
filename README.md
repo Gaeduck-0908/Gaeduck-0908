@@ -16,8 +16,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=BaekJoon" />
   </a>
   
-  <a href="https://github.com/Gaeduck-0908/Unity_SocketGame_FPS">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Unity_SocketGame_FPS" />
+  <a href="https://github.com/Gaeduck-0908/Unity_Shooting">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Unity_Shooting" />
   </a>
   
 # :grinning:Experience
