@@ -16,8 +16,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=BaekJoon" />
   </a>
   
-  <a href="https://github.com/Gaeduck-0908/Unity_Shooting">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Unity_Shooting" />
+  <a href="https://github.com/Gaeduck-0908/Python_Socket_Chat_Program">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Python_Socket_Chat_Program" />
   </a>
   
 # :grinning:Experience
