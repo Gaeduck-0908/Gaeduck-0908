@@ -12,8 +12,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Python_Web_crawling" />
   </a>
   
-  <a href="https://github.com/Gaeduck-0908/BaekJoon">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=BaekJoon" />
+  <a href="https://github.com/Gaeduck-0908/Coding_Test">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Coding_Test" />
   </a>
   
   <a href="https://github.com/Gaeduck-0908/Python_Socket_Chat_Program">
