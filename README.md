@@ -39,7 +39,6 @@
 # :grinning:About me.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaeduck-0908&&show_icons=true&theme=codeSTACKr) <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gaeduck0908)](https://solved.ac/gaeduck0908) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeduck-0908&layout=compact&theme=dracula) <br>
   
 ### 🔹 I am a plain Korean student
