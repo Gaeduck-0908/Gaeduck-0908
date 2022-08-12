@@ -8,8 +8,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Python_Calculator" />
   </a>
   
-  <a href="https://github.com/Gaeduck-0908/Python_Web_crawling">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Python_Web_crawling" />
+  <a href="https://github.com/Gaeduck-0908/Docker_Collection">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Docker_Collection" />
   </a>
   
   <a href="https://github.com/Gaeduck-0908/Python_Sniffing">
