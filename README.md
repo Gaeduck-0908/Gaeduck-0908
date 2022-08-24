@@ -10,6 +10,10 @@
   
   <img src="http://github-profile-trophy.vercel.app/?username=Gaeduck-0908&margin-w=28&margin-h=15&theme=nord" />
   
+<a href = "https://api.gitofolio.com/portfolio/2410/2414">
+<img src = "https://api.gitofolio.com/portfoliocard/svg/2414?color=neonpurple" style="width:353px; height:auto; "/>
+</a>
+  
 # 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲
   <a href="https://github.com/Gaeduck-0908/Python_Calculator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Python_Calculator" />
