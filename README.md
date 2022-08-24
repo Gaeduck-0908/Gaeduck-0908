@@ -3,7 +3,14 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Kim%20Tae%20Han&fontSize=90)
 
-# :grinning:Repository
+---
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaeduck-0908&&show_icons=true&theme=codeSTACKr)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeduck-0908&layout=compact&theme=dracula) <br>
+  
+  <img src="http://github-profile-trophy.vercel.app/?username=Gaeduck-0908&margin-w=28&margin-h=15&theme=nord" />
+  
+# 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲
   <a href="https://github.com/Gaeduck-0908/Python_Calculator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Python_Calculator" />
   </a>
@@ -20,7 +27,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Python_Socket_Chat_Program" />
   </a>
   
-# :grinning:Experience
+# 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞
 | **NAME** | **DATE** | **CONTENTS** | **WHERE** |
 |:--------:|:--------:|:--------:|:--------:|
 | **개발** | 2020. 09 ~ 현재 | 개발, 보안 | **Earth** |
@@ -37,18 +44,15 @@
 | **성일정보고등학교 개발스터디(단장)** | 2022. 06 ~ 현재 | 개발 활동 | **Sungil Information High School** |
 | **WACON 2022** | 2022. 06 ~ 2022. 06 | 보안 대회 | **한국산업기술보호협회** |
 
-# :grinning:About me.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaeduck-0908&&show_icons=true&theme=codeSTACKr) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeduck-0908&layout=compact&theme=dracula) <br>
+# 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞.
   
-### 🔹 I am a plain Korean student
-### 🔹 I'm very interested.
-### 🔹 I want to be good at coding.
+### 🔹 성일정보고등학교 소프트웨어개발과 재학중입니다.
+### 🔹 보안을 좋아하며 Python, C#(Unity) 를 자주 개발합니다.
+### 🔹 항상 배우려는 자세를 유지하고 있습니다.
   
   ![View](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGaeduck-0908%2FGaeduck-0908%2Fhit-counter&count_bg=%23000000&title_bg=%2300CFFF&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false)
 
-# :grinning:My Skill
+# 𝐌𝐲 𝐒𝐤𝐢𝐥𝐥
 ![C](https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c%2B%2B-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -66,7 +70,7 @@
   
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white) <br>
 
-# :grinning:Tool
+# 𝐄𝐝𝐢𝐭𝐨𝐫
 
 ![Kali_Linux](https://img.shields.io/badge/KaliLinux-557C94?style=for-the-badge&logo=KaliLinux&logoColor=white)
 ![Ubuntu_Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white) <br>
