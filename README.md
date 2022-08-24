@@ -8,27 +8,23 @@
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaeduck-0908&&show_icons=true&theme=codeSTACKr)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeduck-0908&layout=compact&theme=dracula) <br>
   
-  <img src="http://github-profile-trophy.vercel.app/?username=Gaeduck-0908&margin-w=28&margin-h=15&theme=nord" />
-  
-<a href = "https://api.gitofolio.com/portfolio/2410/2414">
-<img src = "https://api.gitofolio.com/portfoliocard/svg/2414?color=neonpurple" style="width:353px; height:auto; "/>
-</a>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Gaeduck-0908&row=1&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
   
 # 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲
   <a href="https://github.com/Gaeduck-0908/Python_Calculator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Python_Calculator" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Python_Calculator&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
   </a>
   
   <a href="https://github.com/Gaeduck-0908/Docker_Collection">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Docker_Collection" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Docker_Collection&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
   </a>
   
   <a href="https://github.com/Gaeduck-0908/Python_Sniffing">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Python_Sniffing" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Python_Sniffing&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
   </a>
   
   <a href="https://github.com/Gaeduck-0908/Python_Socket_Chat_Program">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Python_Socket_Chat_Program" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Python_Socket_Chat_Program&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
   </a>
   
 # 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞
