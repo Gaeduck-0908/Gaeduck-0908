@@ -4,11 +4,6 @@
 
 ---
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaeduck-0908&&show_icons=true&theme=codeSTACKr)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeduck-0908&layout=compact&theme=dracula) <br>
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Gaeduck-0908&row=1&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-  
 # 𝐏𝐫𝐨𝐣𝐞𝐜𝐭
   <a href="https://github.com/Gaeduck-0908/Python_Calculator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Python_Calculator&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
@@ -27,12 +22,17 @@
   </a>
 
 # 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞.
+
+<div align="left">
+  <h3>🔹 성일정보고등학교 소프트웨어개발과 재학중입니다.</h3>
+  <h3>🔹 보안을 좋아하며 Python, C#(Unity) 를 자주 개발합니다.</h3>
+  <h3>🔹 항상 배우려는 자세를 유지하고 있습니다.</h3>
+</div>
   
-### 🔹 성일정보고등학교 소프트웨어개발과 재학중입니다.
-### 🔹 보안을 좋아하며 Python, C#(Unity) 를 자주 개발합니다.
-### 🔹 항상 배우려는 자세를 유지하고 있습니다.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaeduck-0908&&show_icons=true&theme=codeSTACKr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeduck-0908&layout=compact&theme=dracula) <br>
   
-  ![View](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGaeduck-0908%2FGaeduck-0908%2Fhit-counter&count_bg=%23000000&title_bg=%2300CFFF&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gaeduck-0908&row=1&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 𝐌𝐲 𝐒𝐤𝐢𝐥𝐥
 
@@ -44,5 +44,7 @@
 |![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=java&logoColor=white)|||||![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)||
 |![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)|||||![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000000.svg?style=for-the-badge&logo=visual-studio&logoColor=white)||
 |![Kotlin](https://img.shields.io/badge/kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)|||||![Unity](https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white)||
-
+---
+![View](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGaeduck-0908%2FGaeduck-0908%2Fhit-counter&count_bg=%23000000&title_bg=%2300CFFF&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false)
 </div>
+
