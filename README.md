@@ -33,7 +33,7 @@
 
 # 𝐌𝐲 𝐒𝐤𝐢𝐥𝐥
 
-| **System** | **Front-End** | **Back-End** | **SQL** | **Linux** | **Editor** | **ETC** |
+| **Application** | **Front-End** | **Back-End** | **SQL** | **Linux** | **Editor** | **ETC** |
 |------|---|---|---|---|---|---|
 |![C](https://img.shields.io/badge/c-000000.svg?style=for-the-badge&logo=c&logoColor=white) |![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=white)|![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=white)|![MYSQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=white)|![Kali_Linux](https://img.shields.io/badge/KaliLinux-000000?style=for-the-badge&logo=KaliLinux&logoColor=white)|![AndroidStuido](https://img.shields.io/badge/AndroidStudio-000000?style=for-the-badge&logo=AndroidStudio&logoColor=white)|![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=white)|
 |![C++](https://img.shields.io/badge/c%2B%2B-000000.svg?style=for-the-badge&logo=cplusplus&logoColor=white)|![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=white)|![jsp](https://img.shields.io/badge/Jsp-000000?style=for-the-badge&logo=Jsp&logoColor=white)|![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=Oracle&logoColor=white)|![Ubuntu_Linux](https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=Ubuntu&logoColor=white)|![Intellij](https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=IntellijIDEA&logoColor=white)|![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)|
