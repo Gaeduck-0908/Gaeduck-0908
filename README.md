@@ -9,7 +9,7 @@
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=Gaeduck-0908&row=1&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
   
-# 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲
+# 𝐏𝐫𝐨𝐣𝐞𝐜𝐭
   <a href="https://github.com/Gaeduck-0908/Python_Calculator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Python_Calculator&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
   </a>
@@ -25,23 +25,6 @@
   <a href="https://github.com/Gaeduck-0908/Python_Socket_Chat_Program">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Python_Socket_Chat_Program&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
   </a>
-  
-# 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞
-| **NAME** | **DATE** | **CONTENTS** | **WHERE** |
-|:--------:|:--------:|:--------:|:--------:|
-| **개발** | 2020. 09 ~ 현재 | 개발, 보안 | **Earth** |
-| **성일정보고등학교 게임 개발 동아리** | 2021. 03 ~ 현재 | Unity를 이용한 게임개발 | **Sungil Information High School** |
-| **제 2회 해킹하는 부엉이들 웹세미나** | 2021. 06 ~ 2021. 06 | 보안 웹 세미나 | **TeamH4C** |
-| **Java 응용 프로그램 개발방과후** | 2021. 09 ~ 2021. 11 | Java 화면구현, DB 구현 교육 | **Sungil Information High School** |
-| **학생용 해킹노트 온라인 컨퍼런스** | 2021. 10 ~ 2021. 10 | 보안 웹 세미나 | **TeamH4C** |
-| **성일정보고등학교 보안스터디(단장)** | 2021. 11 ~ 현재 | 보안, 개발 활동 | **Sungil Information High School** |
-| **안드로이드 앱개발 방과후** | 2021. 11 ~ 현재 | 안드로이드 스튜디오를 <br> 이용한 앱개발 | **Sungil Information High School** |
-| **2021 KAIT SFPC 제주** | 2022. 01 ~ 2022. 01 | 알고리즘 대회, 페스티벌 | **KAIT** |
-| **제 3회 해킹하는 부엉이들 웹세미나** | 2022. 01 ~ 2022. 01 | 보안 웹 세미나 | **TeamH4C** |
-| **지방기능경기대회 [게임개발] 🥈** | 2022. 04 ~ 2022. 04 | 게임 개발 대회 참가 | **한국산업인력공단** |
-| **SK텔레콤 스마트앱 개발 챌린지** | 2022. 05 ~ 2022. 06 | 엔터테이먼트 부문 참가 | **SK플래닛** |
-| **성일정보고등학교 개발스터디(단장)** | 2022. 06 ~ 현재 | 개발 활동 | **Sungil Information High School** |
-| **WACON 2022** | 2022. 06 ~ 2022. 06 | 보안 대회 | **한국산업기술보호협회** |
 
 # 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞.
   
@@ -52,35 +35,14 @@
   ![View](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGaeduck-0908%2FGaeduck-0908%2Fhit-counter&count_bg=%23000000&title_bg=%2300CFFF&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false)
 
 # 𝐌𝐲 𝐒𝐤𝐢𝐥𝐥
-![C](https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c%2B%2B-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kotlin](https://img.shields.io/badge/kotlin-A8B9CC?style=for-the-badge&logo=kotlin&logoColor=7F52FF)<br>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)<br>
+| **System** | **Front-End** | **Back-End** | **SQL** | **Linux** | **Editor** | **ETC** |
+|------|---|---|---|---|---|---|
+|![C](https://img.shields.io/badge/c-000000.svg?style=for-the-badge&logo=c&logoColor=white) |![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=white)|![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=white)|![MYSQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=white)|![Kali_Linux](https://img.shields.io/badge/KaliLinux-000000?style=for-the-badge&logo=KaliLinux&logoColor=white)|![AndroidStuido](https://img.shields.io/badge/AndroidStudio-000000?style=for-the-badge&logo=AndroidStudio&logoColor=white)|![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=white)|
+|![C++](https://img.shields.io/badge/c%2B%2B-000000.svg?style=for-the-badge&logo=cplusplus&logoColor=white)|![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=white)|![jsp](https://img.shields.io/badge/Jsp-000000?style=for-the-badge&logo=Jsp&logoColor=white)|![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=Oracle&logoColor=white)|![Ubuntu_Linux](https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=Ubuntu&logoColor=white)|![Intellij](https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=IntellijIDEA&logoColor=white)|![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)|
+|![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white)|![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=white)||||![Eclipse](https://img.shields.io/badge/Eclipse-000000.svg?style=for-the-badge&logo=Eclipse&logoColor=white)||
+|![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=java&logoColor=white)|||||![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)||
+|![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)|||||![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000000.svg?style=for-the-badge&logo=visual-studio&logoColor=white)||
+|![Kotlin](https://img.shields.io/badge/kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)|||||![Unity](https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white)||
 
-![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)  
-  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white) <br>
-
-# 𝐄𝐝𝐢𝐭𝐨𝐫
-
-![Kali_Linux](https://img.shields.io/badge/KaliLinux-557C94?style=for-the-badge&logo=KaliLinux&logoColor=white)
-![Ubuntu_Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white) <br>
-
-![Intellij](https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=IntellijIDEA&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) <br>
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![AndroidStuido](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white) <br>
-  
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)<br>
 </div>
