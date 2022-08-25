@@ -27,10 +27,11 @@
   <h3>🔹 성일정보고등학교 소프트웨어개발과 재학중입니다.</h3>
   <h3>🔹 보안을 좋아하며 Python, C#(Unity) 를 자주 개발합니다.</h3>
   <h3>🔹 항상 배우려는 자세를 유지하고 있습니다.</h3>
-</div>
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaeduck-0908&&show_icons=true&theme=codeSTACKr)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeduck-0908&layout=compact&theme=dracula) <br>
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaeduck-0908&&show_icons=true&theme=codeSTACKr)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeduck-0908&layout=compact&theme=dracula) <br>
+</div>
+
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gaeduck-0908&row=1&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
