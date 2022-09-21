@@ -24,7 +24,7 @@
 # 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞.
   <h3>🔹 성일정보고등학교 소프트웨어개발과 재학중입니다 🔹</h3>
   <h3>🔹 주로 Python, C# 을 자주 개발합니다 🔹</h3>
-  <h3>🔹 항상 배우려는 자세를 유지하고 있습니다 🔹</h3>
+  <h3>🔹 항상 배우려는 자세를 유지하고 있습니다 🔹</h3> 
 
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaeduck-0908&&show_icons=true&theme=codeSTACKr)
