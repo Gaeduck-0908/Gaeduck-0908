@@ -1,13 +1,9 @@
 <div align="center">
   
   [![southkoreaParrot](https://cdn3.emoji.gg/emojis/2127_southkoreaparrot.gif)](https://emoji.gg/emoji/2127_southkoreaparrot)
-  [![southkoreaParrot](https://cdn3.emoji.gg/emojis/2127_southkoreaparrot.gif)](https://emoji.gg/emoji/2127_southkoreaparrot)
-  [![southkoreaParrot](https://cdn3.emoji.gg/emojis/2127_southkoreaparrot.gif)](https://emoji.gg/emoji/2127_southkoreaparrot)
-  [![southkoreaParrot](https://cdn3.emoji.gg/emojis/2127_southkoreaparrot.gif)](https://emoji.gg/emoji/2127_southkoreaparrot)
-  [![southkoreaParrot](https://cdn3.emoji.gg/emojis/2127_southkoreaparrot.gif)](https://emoji.gg/emoji/2127_southkoreaparrot)
   
 # 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞.
-  <h3> 🔹 Sungil Information High School, Software Development Major  </h3>
+  <h3> 🔹 Sungil Information High School, Software Development Major 🔹 </h3>
   <h3>🔹 I usually develop Python and C#🔹</h3>
   <h3>🔹 I'm always trying to learn 🔹</h3>
 
