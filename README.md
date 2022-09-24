@@ -1,30 +1,11 @@
 <div align="center">
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Kim%20Tae%20Han&fontSize=90)
-
----
   
-# 𝐏𝐫𝐨𝐣𝐞𝐜𝐭
-  <a href="https://github.com/Gaeduck-0908/Unity_kkaebiGame">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Unity_kkaebiGame&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
-  </a>
-  
-  <a href="https://github.com/Gaeduck-0908/Docker_Collection">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Docker_Collection&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-  </a>
-  
-  <a href="https://github.com/Gaeduck-0908/Unity_Pinball">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Unity_Pinball&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-  </a>
-  
-  <a href="https://github.com/Gaeduck-0908/Python_Socket_Chat_Program">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Python_Socket_Chat_Program&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-  </a>
-
 # 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞.
-  <h3>🔹 성일정보고등학교 소프트웨어개발과 재학중입니다 🔹</h3>
-  <h3>🔹 주로 Python, C# 을 자주 개발합니다 🔹</h3>
-  <h3>🔹 항상 배우려는 자세를 유지하고 있습니다 🔹</h3> 
+  <h3> 🔹 Sungil Information High School, Software Development Major 🔹 </h3>
+  <h3>🔹 I usually develop Python and C#🔹</h3>
+  <h3>🔹 I'm always trying to learn 🔹</h3>
 
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaeduck-0908&&show_icons=true&theme=codeSTACKr)
