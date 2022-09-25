@@ -9,7 +9,7 @@
   <h3>🔹 I'm always trying to learn 🔹</h3>
 
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaeduck-0908&&show_icons=true&theme=codeSTACKr)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaeduck-0908&&show_icons=true&theme=codeSTACKr&count_private=true&show_icons=true&hide_rank=false)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeduck-0908&layout=compact&theme=dracula)
   [![trophy](https://github-profile-trophy.vercel.app/?username=Gaeduck-0908&row=1&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
