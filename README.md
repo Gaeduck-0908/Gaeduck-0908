@@ -5,7 +5,8 @@
 
 # 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞.
   <h3> 🔹 Sungil Information High School, Software Development Major 🔹 </h3>
-  <h3>🔹 I usually develop C# and Python🔹</h3>
+  <h3>🔹 I usually develop C# and Python 🔹</h3>
+  <h3>🔹 I do Reversing and Forensics 🔹</h3>
   <h3>🔹 I'm always trying to learn 🔹</h3>
 
   
