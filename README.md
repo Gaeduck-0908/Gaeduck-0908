@@ -1,7 +1,12 @@
 <div align="center">
   
-  
-  [![southkoreaParrot](https://cdn3.emoji.gg/emojis/2127_southkoreaparrot.gif)](https://emoji.gg/emoji/2127_southkoreaparrot)
+  [![catdance](https://cdn3.emoji.gg/emojis/8313_catdance.gif)](https://emoji.gg/emoji/8313_catdance)
+  [![catdance](https://cdn3.emoji.gg/emojis/8313_catdance.gif)](https://emoji.gg/emoji/8313_catdance)
+  [![catdance](https://cdn3.emoji.gg/emojis/8313_catdance.gif)](https://emoji.gg/emoji/8313_catdance)
+  [![catdance](https://cdn3.emoji.gg/emojis/8313_catdance.gif)](https://emoji.gg/emoji/8313_catdance)
+  [![catdance](https://cdn3.emoji.gg/emojis/8313_catdance.gif)](https://emoji.gg/emoji/8313_catdance)
+  [![catdance](https://cdn3.emoji.gg/emojis/8313_catdance.gif)](https://emoji.gg/emoji/8313_catdance)
+  [![catdance](https://cdn3.emoji.gg/emojis/8313_catdance.gif)](https://emoji.gg/emoji/8313_catdance)
 
 # 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞.
   <h3> 🔹 Sungil Information High School, Software Development Major 🔹 </h3>
