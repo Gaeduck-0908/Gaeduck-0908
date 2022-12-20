@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![WOAH_WOAH_WOAH](https://cdn3.emoji.gg/emojis/1201-woah-woah-woah.png)](https://emoji.gg/emoji/1201-woah-woah-woah)
+  ![download](https://user-images.githubusercontent.com/82009667/208658730-76fec22f-5370-4c0a-87da-03608d22587b.jpg)
 
 # 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞.
   <h3> 🔹 Sungil Information High School, Software Development Major 🔹 </h3>
