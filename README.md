@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![download](https://user-images.githubusercontent.com/82009667/208658730-76fec22f-5370-4c0a-87da-03608d22587b.jpg)
+![KakaoTalk_20221225_030627480](https://user-images.githubusercontent.com/82009667/209447054-6b2b128f-9793-42f8-996e-3b58045e157e.png)
 
 # 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞.
   <h3> 🔹 Sungil Information High School, Software Development Major 🔹 </h3>
