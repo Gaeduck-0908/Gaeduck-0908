@@ -1,7 +1,5 @@
 <div align="center">
-  
-![KakaoTalk_20221225_030627480](https://user-images.githubusercontent.com/82009667/209447054-6b2b128f-9793-42f8-996e-3b58045e157e.png)
-
+ 
 # 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞.
   <h3> 🔹 Sungil Information High School, Software Development Major 🔹 </h3>
   <h3>🔹 I usually develop C# and Python 🔹</h3>
