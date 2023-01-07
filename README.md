@@ -9,7 +9,7 @@
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaeduck-0908&&show_icons=true&theme=codeSTACKr&count_private=true&show_icons=true&hide_rank=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeduck-0908&layout=compact&theme=codeSTACKr&langs_count=10&hide=Roff)
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Gaeduck-0908&row=1&column=5&theme=onestar)]
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Gaeduck-0908&row=1&column=5&theme=onestar)
 
 # 𝐌𝐲 𝐒𝐤𝐢𝐥𝐥
 
