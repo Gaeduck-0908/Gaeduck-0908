@@ -2,8 +2,8 @@
  
 # 𝑨𝑩𝑶𝑼𝑻 𝑴𝑬
  ### 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐔𝐒
- 🟥 Instagram : [@kimtaehan_0908](https://www.instagram.com/kimtaehan_0908)<br>
- 🟥 Mail : gms8757@naver.com <br>
+ 🟥 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 : [@kimtaehan_0908](https://www.instagram.com/kimtaehan_0908)<br>
+ 🟥 𝐌𝐚𝐢𝐥 : gms8757@naver.com <br>
  
  ### 𝐏𝐑𝐎𝐅𝐈𝐋𝐄
  🟩 𝐒𝐮𝐧𝐠𝐢𝐥 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐒𝐭𝐮𝐝𝐲 𝐅𝐨𝐮𝐧𝐝𝐞𝐝 & 𝟏𝐬𝐭,𝟐𝐧𝐝 𝐋𝐞𝐚𝐝𝐞𝐫 (𝐒𝐒𝐒) <br>
