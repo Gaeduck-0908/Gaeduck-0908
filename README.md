@@ -2,9 +2,10 @@
  
 # 𝑨𝑩𝑶𝑼𝑻 𝑴𝑬
  ```
- 🟥 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 : @𝐤𝐢𝐦𝐭𝐚𝐞𝐡𝐚𝐧_𝟎𝟗𝟎𝟖
- 🟥 𝐌𝐚𝐢𝐥 : 𝐠𝐦𝐬𝟖𝟕𝟓𝟕@𝐧𝐚𝐯𝐞𝐫.𝐜𝐨𝐦
- 🟥 𝐌𝐲 𝐁𝐥𝐨𝐠 𝐢𝐬 𝐒𝐄𝐂𝐑𝐄𝐓 😜
+ 🟥 Instagram : @kimtaehan_0908
+ 🟦 Mail : gms8757@naver.com
+ 🟨 I do Develop & Security
+ 🟩 My Blog is SECRET 😜
  ```
 
 # 𝑽𝑰𝑬𝑾
