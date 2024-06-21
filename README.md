@@ -1,5 +1,5 @@
 
-<div>
+<div align="center">
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/Gaeduck-0908"
