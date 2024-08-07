@@ -13,8 +13,6 @@
   
 </div>
 
-# 💫 About Me
-
 ## 🎓 Career
 - **[BIZENTRO](http://www.bizentro.com:8080/)**: Integrated Development Team (Mar 2023 - Nov 2023)
 - **[Sungil Information High School](https://sungili-h.goesn.kr/sungili-h/main.do)**: Game Development Instructor (Mar 2024)
