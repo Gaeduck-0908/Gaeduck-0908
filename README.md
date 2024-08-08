@@ -40,7 +40,7 @@
     <img src="https://dreamhack-readme-stats.vercel.app/api/stats?username=15426" width="400" height="200" alt="Dreamhack Profile"/>
   </a>
   <a href="https://solved.ac/gaeduck0908">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=gaeduck0908" width="400" height="200" alt="Solved.ac Profile"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gaeduck0908" width="400" height="200" alt="Solved.ac Profile"/>
   </a>
 </div>
 
