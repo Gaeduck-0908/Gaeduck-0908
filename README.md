@@ -32,3 +32,12 @@
 - **National Skills Competition [Game Development] Excellence Award**: 2023
 - **Gyeonggi-do Meritorious Person Overseas Training in Taiwan**: 2023
 - **4th JBU CTF Excellence Award (Team Name: 용돈주세요)**: 2023
+
+---
+
+<div align="center">
+
+[![Dreamhack Profile](https://dreamhack-readme-stats.vercel.app/api/stats?username=15426)](https://github.com/with-developer/dreamhack-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gaeduck0908)](https://solved.ac/gaeduck0908)
+  
+</div>
