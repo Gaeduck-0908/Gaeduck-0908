@@ -36,7 +36,7 @@
 ---
 
 <div align="center">
-  <a href="https://dreamhack.io/users/15426/">
+  <a href="https://github.com/with-developer/dreamhack-readme-stats">
     <img src="https://dreamhack-readme-stats.vercel.app/api/stats?username=15426" width="400" height="200" alt="Dreamhack Profile"/>
   </a>
   <a href="https://solved.ac/gaeduck0908">
