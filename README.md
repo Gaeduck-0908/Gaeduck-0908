@@ -17,7 +17,7 @@
 - **[BIZENTRO](http://www.bizentro.com:8080/)**: Integrated Development Team (Mar 2023 - Nov 2023)
 - **[Sungil Information High School](https://sungili-h.goesn.kr/sungili-h/main.do)**: Game Development Instructor (Mar 2024)
 - **[Cyberone](https://www.cyberone.kr/main)**: Penetration Testing Consultant (Jan 2024 - Aug 2024)
-- **[Nudge Healthcare](https://cashwalk.com/)**: Information Security Manager (Aug 2024 - )
+- **[Nudge Healthcare](https://cashwalk.com/)**: Information Security Manager (Aug 2024 - Ing)
 
 ## 🏆 Awards
 - **Sungil Information High School In-school Algorithm Contest Encouragement Award**: 2022
