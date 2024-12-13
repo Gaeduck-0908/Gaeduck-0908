@@ -1,5 +1,5 @@
 ## 🎓 Career
-- **[BIZENTRO](http://www.bizentro.com:8080/)** (2024.03 ~ 2023.11)
+- **[BIZENTRO](http://www.bizentro.com:8080/)** (2023.03 ~ 2023.11)
   - Integrated Development Team
 - **[Sungil Information High School](https://sungili-h.goesn.kr/sungili-h/main.do)** (2024.03)
   - Game Development Instructor
