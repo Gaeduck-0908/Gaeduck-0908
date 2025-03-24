@@ -35,7 +35,6 @@
   - Gyeonggi-do Meritorious Person Overseas Training in Taiwan
   - 4th JBU CTF Excellence Award (Team Name: 용돈주세요)
 - **2024**
-  - WorldSkils Game Development After-School Instructor
   - Attended .HACK Conference
   - DownUnderCTF - 47th place
   - Completion of Ransomware Response and Cloud Security Training at Gangwon Information Security Support Center
