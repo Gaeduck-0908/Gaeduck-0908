@@ -1,8 +1,6 @@
 ## 🎓 Career
 - **[BIZENTRO](http://www.bizentro.com:8080/)** (2023.03 ~ 2023.11)
   - Integrated Development Team
-- **[Sungil Information High School](https://sungili-h.goesn.kr/sungili-h/main.do)** (2024.03)
-  - Game Development Instructor
 - **[Cyberone](https://www.cyberone.kr/main)** (2024.03 - 2024.08)
   - Penetration Testing Consultant
 - **[Nudge Healthcare](https://cashwalk.com/)** (2024.08 - Ing)
@@ -35,6 +33,7 @@
   - Gyeonggi-do Meritorious Person Overseas Training in Taiwan
   - 4th JBU CTF Excellence Award (Team Name: 용돈주세요)
 - **2024**
+  - Sungil Information High School - Game Development Instructor
   - Attended .HACK Conference
   - DownUnderCTF - 47th place
   - Completion of Ransomware Response and Cloud Security Training at Gangwon Information Security Support Center
