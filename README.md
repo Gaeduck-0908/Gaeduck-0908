@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+  
+  ![giphy (1)](https://github.com/user-attachments/assets/66d1a02d-0aee-4728-b59e-090a74c35971)
 
-<!--
-**Gaeduck-0908/Gaeduck-0908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+𝐄𝐑𝐏 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 (𝟐𝟑.𝟎𝟑 ~ 𝟐𝟑.𝟏𝟏)-> 
 
-Here are some ideas to get you started:
+𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐢𝐧𝐠 (𝟐𝟒.𝟎𝟏 ~ 𝟐𝟒.𝟎𝟖)-> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐌𝐚𝐧𝐚𝐠𝐞𝐫 (𝟐𝟒.𝟎𝟖 ~ 𝐈𝐧𝐠)
+
+ヽ(•̀ω•́ )ゝ
+
+
+</div>
