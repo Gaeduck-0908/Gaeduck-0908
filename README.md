@@ -7,7 +7,7 @@
 
 </div>
 
-## 💼 Career
+# 💼 Career
 - 🧾 ERP Developer (23.03 ~ 23.11)  
 - 🛡️ Security Consulting (24.01 ~ 24.08)  
 - 🔐 Information Security Manager (24.08 ~ Ing)
