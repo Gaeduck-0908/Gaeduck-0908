@@ -44,4 +44,4 @@
 - Attended .Dothack Conference  
 - Completed Customized Ransomware Response & Cloud Security Training – GWISSC  
 - Attended PASCON Conference
-- 47th Place, DownUnder CTF
+- 47th Place, DownUnder CTF (Team: RubiyaLab)
